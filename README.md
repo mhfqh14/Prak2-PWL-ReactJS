@@ -1,2 +1,3 @@
-# Prak2-PWL-ReactJS
-Muhammad Faqih<Br>119140012
+# portfolio-klinkonsky
+A simple portfolio created with React Js
+Open page <a href="https://klinkonsky-portfolio.netlify.app/">here</a>
